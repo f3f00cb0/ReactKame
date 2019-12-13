@@ -671,7 +671,7 @@ function App() {
             <AjaxComponent />
           </div>
           <div className="column is-3">
-            Ahah oof hi
+            Ahah oof
           </div>
         </div>
       </div>                                
