@@ -303,6 +303,8 @@ class AjaxComponent extends React.Component {
 const characters = [
   { id: 1, name: 'Hello', atck: '1', def: '1', spike: '1' },
   { id: 2, name: 'Helloggzgz', atck: '1', def: '1', spike: '1' },
+  { id: 3, name: 'Hellozgz', atck: '1', def: '1', spike: '1' },
+
 ];
 
 class Clock extends React.Component {
